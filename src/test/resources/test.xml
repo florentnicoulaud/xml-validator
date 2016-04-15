@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+    <document documentType="doc1">
+        <message>dream</message>
+    </document>
+    <document documentType="doc2">
+        <date>2016-04-14</date>
+        <type>1</type>
+    </document>
+</documents>

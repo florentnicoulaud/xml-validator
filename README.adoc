@@ -1,0 +1,6 @@
+= xml-validator
+Florent Nicoulaud
+
+I needed to validate an XSD file in version 1.1 and could not find anything online.
+This is a simple project based on solutions I gathered mostly on stack overflow.
+The Java class lets you validate an XML file against an XML Schema (compatible with XSD version 1.1).
