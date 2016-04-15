@@ -10,6 +10,6 @@ public class TestXmlValidator {
 
     @Test
     public void validateXmlToXsd() throws IOException, SAXException {
-        XmlValidator.validateFile(new File("src/test/resources/test.xml"), new File("../xsd/test.xsd"));
+        XmlValidator.validateFile(new File("src/test/resources/test.xml"), new File("src/test/resources/test.xsd"));
     }
 }
